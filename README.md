@@ -17,9 +17,9 @@ phase2.txt describes an ongoing effort to rearrange the words as defined in Phas
 
 Phase 3 of this project might work toward making it so that the concepts described by the monosyllabic words are linguistically-neutral concepts, rather than retaining the English-specific pitfalls of the first two phases:
 
-- Homographs and homonyms (such as "lead" and "mine") are unified into one word.
-- Many synonyms (such as "boat" and "ship") are redundant (Randall himself notes that he eschews "ship" for "boat" in Thing Explainer).
-- Some words (such as "bedroom") can be directly represented as combinations of shorter words (such as "bed" and "room").
+- Homographs and homonyms (such as "lead" and "mine") are conflated together.
+- Many synonyms (such as "boat" and "ship") are redundant to each other (Randall himself notes that he eschews "ship" for "boat" in Thing Explainer).
+- Some words (such as "bedroom") are redundant with combinations of shorter words (such as "bed" and "room").
 
 Phase 4 and onward might look toward addressing how this word list focuses on lemmas (like "explain"), without a way to denote derivations such as "-er" (as in "explainer"). Future phases may also consider a more semantic sorting of concepts, rather than trying to fit words around existing ethnographic pronunciations.
 
